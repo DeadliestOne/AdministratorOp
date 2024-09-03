@@ -39,7 +39,7 @@ print <<EOTEXT;
      ::::`:::::::`;::::::::;:::#                OO
      `:::::`::::::::::::;'`:;::#                O
       `:::::`::::::::;' /  / `:#
-       ::::::`:::::;'  /  /   `#
+       ::::::`:::::;'  /  /   `# Maded By Administrator 
 EOTEXT
      
 print "~You are attacking the ip: $ip " . ($port ? $port : "random") . " With " .
